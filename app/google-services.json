@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1079897568778",
+    "firebase_url": "https://post-chats-default-rtdb.firebaseio.com",
+    "project_id": "post-chats",
+    "storage_bucket": "post-chats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079897568778:android:85c44790b0a17f2f9491f3",
+        "android_client_info": {
+          "package_name": "com.shivank.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKHhK5fVc1xewIqTHXCavaS5vfDgFYWPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
